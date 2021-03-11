@@ -23,6 +23,39 @@
 # IT과학 canrevan --category 105 --start_date 20180301 --end_date 20190301 --max_page 5
 # 사회 canrevan --category 102 --start_date 20180301 --end_date 20190301 --max_page 5
 
+# TRAIN DATA 3
+
+# TRAIN DATA
+# 정치 canrevan --category 100 --start_date 20200301 --end_date 20210331 --max_page 5
+# IT과학 canrevan --category 105 --start_date 20200301 --end_date 20210331 --max_page 5
+# 사회 canrevan --category 102 --start_date 20200301 --end_date 20210331 --max_page 5
+# 경제 canrevan --category 101 --start_date 20200301 --end_date 20210331 --max_page 5
+# 세계 canrevan --category 104 --start_date 20200301 --end_date 20210331 --max_page 5
+# 생활문화 canrevan --category 103 --start_date 20200301 --end_date 20210331 --max_page 5
+
+# TEST DATA
+# 정치 canrevan --category 100 --start_date 20180301 --end_date 20190331 --max_page 5
+# IT과학 canrevan --category 105 --start_date 20180301 --end_date 20190331 --max_page 5
+# 사회 canrevan --category 102 --start_date 20180301 --end_date 20190331 --max_page 5
+# 경제 canrevan --category 101 --start_date 20180301 --end_date 20190331 --max_page 5
+# 세계 canrevan --category 104 --start_date 20180301 --end_date 20190331 --max_page 5
+# 생활문화 canrevan --category 103 --start_date 20180301 --end_date 20190331 --max_page 5
+
+
+
+# TRAIN DATA 3
+
+# TRAIN/TEST DATA
+# 정치 canrevan --category 100 --start_date 20010301 --end_date 20210331 --max_page 5
+# IT과학 canrevan --category 105 --start_date 20010301 --end_date 20210331 --max_page 5
+# 사회 canrevan --category 102 --start_date 20010301 --end_date 20210331 --max_page 5
+# 경제 canrevan --category 101 --start_date 20010301 --end_date 20210331 --max_page 5
+# 세계 canrevan --category 104 --start_date 20010301 --end_date 20210331 --max_page 5
+# 생활문화 canrevan --category 103 --start_date 20010301 --end_date 20210331 --max_page 5
+
+
+
+
 
 '''
 # 네이버 뉴스 id
